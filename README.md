@@ -31,7 +31,7 @@ if __name__ == '__main__':
 
 ---
 
-Full Stack Developer (Python | Django | FastAPI | React) || Data Scientist || AI & Deep Learning Enthusiast
+ <!--Full Stack Developer (Python | Django | FastAPI | React) || Data Scientist || AI & Deep Learning Enthusiast
 
 🚀 Passionate about building scalable and efficient web applications using Python, Django, FastAPI, React, and SQL/NoSQL databases, with solid experience in backend and API development.
 
@@ -39,7 +39,7 @@ Full Stack Developer (Python | Django | FastAPI | React) || Data Scientist || AI
 
 🔍 Skilled in data analysis, modeling, and algorithm optimization, bridging the gap between research and real-world software solutions.
 
-🤝 Enjoy working in international, collaborative environments, combining technical expertise with clear communication, teaching experience, and critical thinking.
+🤝 Enjoy working in international, collaborative environments, combining technical expertise with clear communication, teaching experience, and critical thinking.-->
 
 ## 🛠 &nbsp;Tech Stack
 
