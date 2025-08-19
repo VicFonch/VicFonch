@@ -11,7 +11,7 @@
 </p>
 
 ```python
-class VictorFonteChavez(SoftwareDeveloper):
+class VictorFonteChavez(SoftwareDeveloper, MLEngineer):
     
   def __init__(self):
     self.name = "Victor Manuel Fonte Chavez";
