@@ -95,7 +95,7 @@ if __name__ == '__main__':
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=VicFonch&theme=dark&hide_border=true" alt="GitHub Streak" />
     &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicFonch&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicFonch&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20Notebook" />
   </p>
 
 </div>
