@@ -101,11 +101,13 @@ if __name__ == '__main__':
 </div>
 
 ---
-## 📫 Conecta conmigo
+## 📫 Connect With Me
 <p align="center">
   <a href="mailto:vmfontech@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
   <a href="https://www.linkedin.com/in/vicfonch"><img src="https://skillicons.dev/icons?i=linkedin"></a>
-  <a href="https://github.com/VicFonch"><img src="https://skillicons.dev/icons?i=github"></a>
+  <a href="https://raw.githubusercontent.com/VicFonch/VicFonch/main/assets/cv_icon.png" target="_blank">
+    <img src="https://img.icons8.com/badges/48/resume.png" alt="CV" />
+  </a>
 </p>
 
 ---
