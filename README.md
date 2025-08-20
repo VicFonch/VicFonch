@@ -86,4 +86,30 @@ if __name__ == '__main__':
   </a>
 </p>
 
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VicFonch&theme=dark&hide_border=true" alt="GitHub Streak" />
+    &nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicFonch&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+  </p>
+
+</div>
+
+---
+## 📫 Conecta conmigo
+<p align="center">
+  <a href="mailto:vmfontech@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
+  <a href="https://www.linkedin.com/in/vicfonch"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+  <a href="https://github.com/VicFonch"><img src="https://skillicons.dev/icons?i=github"></a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Simplicity is the ultimate sophistication." – Leonardo da Vinci</i>
+</p>
