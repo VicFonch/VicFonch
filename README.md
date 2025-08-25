@@ -82,7 +82,7 @@ if __name__ == '__main__':
 ### 🤖 AI / Machine Learning
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>   
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv"/>   
   </a>
 </p>
 
