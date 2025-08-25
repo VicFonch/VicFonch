@@ -67,7 +67,7 @@ if __name__ == '__main__':
 ### ⚙️ Tools & DevOps
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode,linux,postman" />
   </a>
 </p>
 
