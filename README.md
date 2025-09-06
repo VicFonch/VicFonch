@@ -110,8 +110,8 @@ if __name__ == '__main__':
   </a>
 </p>
 
----
+<!-----
 
 <p align="center">
   <i>"Simplicity is the ultimate sophistication." – Leonardo da Vinci</i>
-</p>
+</p>-->
