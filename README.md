@@ -33,45 +33,45 @@ if __name__ == '__main__':
 
  <!--Full Stack Developer (Python | Django | FastAPI | React) || Data Scientist || AI & Deep Learning Enthusiast
 
-🚀 Passionate about building scalable and efficient web applications using Python, Django, FastAPI, React, and SQL/NoSQL databases, with solid experience in backend and API development.
+Passionate about building scalable and efficient web applications using Python, Django, FastAPI, React, and SQL/NoSQL databases, with solid experience in backend and API development.
 
-🧠 Strong background in Artificial Intelligence, Computer Vision, and Deep Learning, with research contributions in video frame interpolation and generative models, including a co-authored publications on IA Generative Modeling
+Strong background in Artificial Intelligence, Computer Vision, and Deep Learning, with research contributions in video frame interpolation and generative models, including a co-authored publications on IA Generative Modeling
 
-🔍 Skilled in data analysis, modeling, and algorithm optimization, bridging the gap between research and real-world software solutions.
+Skilled in data analysis, modeling, and algorithm optimization, bridging the gap between research and real-world software solutions.
 
-🤝 Enjoy working in international, collaborative environments, combining technical expertise with clear communication, teaching experience, and critical thinking.-->
+Enjoy working in international, collaborative environments, combining technical expertise with clear communication, teaching experience, and critical thinking.-->
 
-## 🛠 &nbsp;Tech Stack
+## &nbsp;Tech Stack
 
-### 🔧 Languages
+### Languages
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,typescript,r,cpp,latex" />
   </a>
 </p>
 
-### 🖥️ Frameworks & Libraries
+### Frameworks & Libraries
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=fastapi,django,react,tailwind,pytorch,tensorflow,sklearn" />
   </a>
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
   </a>
 </p>
 
-### ⚙️ Tools & DevOps
+### Tools & DevOps
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vscode,linux,postman" />
   </a>
 </p>
 
-### ☁️ Cloud
+### Cloud
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws" />
@@ -79,7 +79,7 @@ if __name__ == '__main__':
   </a>
 </p>
 
-### 🤖 AI / Machine Learning
+### AI / Machine Learning
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv"/>   
@@ -88,7 +88,7 @@ if __name__ == '__main__':
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -101,7 +101,7 @@ if __name__ == '__main__':
 </div>
 
 ---
-## 📫 Connect With Me
+## Connect With Me
 <p align="center">
   <a href="mailto:vmfontech@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
   <a href="https://www.linkedin.com/in/vicfonch"><img src="https://skillicons.dev/icons?i=linkedin"></a>
